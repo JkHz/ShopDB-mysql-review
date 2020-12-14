@@ -1,0 +1,21 @@
+{
+  "name": "ShopDB-mysql-review",
+  "version": "1.0.0",
+  "description": "A mySQL review repo",
+  "main": "index.js",
+  "scripts": {
+    "connect": "nodemon database/index.js",
+    "start": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  },
+  "keywords": [],
+  "author": "Josh Hertz",
+  "license": "ISC"
+}
