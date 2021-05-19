@@ -17,11 +17,11 @@ npm run connect
 `npm start`
 > start express server
 
-This repo is recommended to be used with `MySQL 5.7`
+This repo is recommended to be used with `MySQL 8.0`
 
 ###  Documentation
 
-*  [MySQL 5.7](https://dev.mysql.com/doc/refman/5.7/en/)
+*  [MySQL 8.0](https://dev.mysql.com/doc/refman/8.0/en/)
 
 
 
