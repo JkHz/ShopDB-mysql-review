@@ -87,12 +87,10 @@ This repo is recommended to be used with `MySQL 5.7`
 
 *  [morgan](https://www.npmjs.com/package/morgan)
 
-*  [bodyParser](https://www.npmjs.com/package/body-parser)
-
 
 
 ##  HELPFUL DOCS
 
-*  [mySQL](https://www.npmjs.com/package/mysql)
+*  [mySQL](https://www.npmjs.com/package/mysql2)
 *  [Express](https://expressjs.com/)
 *  [Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)

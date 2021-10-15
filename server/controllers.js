@@ -1,8 +1,6 @@
-// TODO: create controller functions
 const dbHelpers = require('../database/dbHelpers.js');
 
 const controllers = {
-
   getAll: (req, res) => {
     dbHelpers.getAll((err, results) => {
       if (err) {

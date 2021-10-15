@@ -1,7 +1,6 @@
 const db = require('./index.js');
 
 const dbHelpers = {
-
   getAll: (callback) => {
     let queryStr = `SELECT * FROM inventory`;
 
@@ -66,7 +65,6 @@ const dbHelpers = {
       }
     })
   }
-
 }
 
 module.exports = dbHelpers;
