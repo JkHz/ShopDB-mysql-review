@@ -23,8 +23,6 @@ This repo is recommended to be used with `MySQL 8.0`
 
 *  [MySQL 8.0](https://dev.mysql.com/doc/refman/8.0/en/)
 
-
-
 ##  Step 1
 
 * Create database `ShopDB` within MySQL
@@ -87,12 +85,11 @@ This repo is recommended to be used with `MySQL 8.0`
 
 *  [morgan](https://www.npmjs.com/package/morgan)
 
-*  [bodyParser](https://www.npmjs.com/package/body-parser)
 
 
 
 ##  HELPFUL DOCS
 
-*  [mySQL](https://www.npmjs.com/package/mysql)
+*  [mySQL](https://www.npmjs.com/package/mysql2)
 *  [Express](https://expressjs.com/)
 *  [Queries](http://www.cheat-sheets.org/sites/sql.su/#data_manipulation)
